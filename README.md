@@ -67,15 +67,15 @@ b) SPDT (XOR):
 
 a) SPDT (XNOR):
 
-![1](https://github.com/user-attachments/assets/421ecea7-fe41-428a-9349-b3005a89d656)
+![1](https://github.com/user-attachments/assets/e160edf2-1c32-4903-b6a7-6700054c9c71)
+![2](https://github.com/user-attachments/assets/c629da9b-e3b6-4c0e-96df-f026e99ad49c)
 
-![2](https://github.com/user-attachments/assets/13627de9-934f-49c5-a53e-c04e8fb273ac)
 
 b) SPDT (XOR):
 
-![3](https://github.com/user-attachments/assets/b9c306ad-abe7-42ab-923e-bd8d5f2e189b)
+![3](https://github.com/user-attachments/assets/306963ba-8b2b-4ce2-9681-5a522a99080f)
+![4](https://github.com/user-attachments/assets/b15de3a3-8d04-418a-b3ba-505cc7333e3a)
 
-![4](https://github.com/user-attachments/assets/ee983108-3319-4919-9de0-1fa766cf38b2)
 
 ## RESULT:
 Thus the staircase wiring is connected and tested.
